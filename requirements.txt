@@ -1,0 +1,14 @@
+# requirements.txt
+
+streamlit
+transformers
+torch
+numpy
+scikit-learn
+pandas
+scipy
+
+# If you used any other specific libraries in your app, list them here.
+# For example, if you explicitly used numpy or pandas:
+# numpy
+# pandas
